@@ -15,7 +15,7 @@ $$\frac{dI}{dt} = \beta IS - \gamma I$$
 
 $$\frac{dR}{dt} = \gamma I$$
 
-where $S$ is the number of susceptible people, $I$  is the number of infected people, and $R$  is the number of recovered people.
+where S is the number of susceptible people, I is the number of infected people, and R is the number of recovered people.
 
 # Next steps
 
