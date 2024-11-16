@@ -13,7 +13,7 @@ R_0 = input("Initial recovered population: ");
 
 totalPop = S_0 + I_0 + R_0;
 
-[S,R,I,t] = solve(beta,gamma,t_total,S_0,R_0,I_0, totalPop); % Set parameters and solve
+[S,R,I,t] = solve(beta,gamma,t_total,S_0,I_0,R_0, totalPop); % Set parameters and solve
 plotfunc(S,R,I,t);                             % Plot T against t   
 
 
