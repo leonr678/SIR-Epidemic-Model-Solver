@@ -1,9 +1,9 @@
 # SIR-Epidemic-Model-Solver
-We solve for (and plot) SIR epidemic model in MATLAB, with parameters used from user inputs.
+We solve for (and plot) the SIR epidemic model, in MATLAB, with parameters used from user inputs.
 
 # Usage
 
-The code is structured into 3 files, 2 of them being functions (solve.m and plotfunc.m) and one being the implementation script (main.m). Make sure all the files are in the same folder before attempting usage. Upon running main.m, you will be required to input initial conditions and parameters. Then plots of the solutions will be displayed on a figure.
+The code is structured into 3 files, 2 of them being functions (solve.m and plotfunc.m) and one being the implementation script (main.m). Make sure all the files are in the same folder before attempting usage. Upon running main.m, you will be required to input initial conditions, duration, and parameters. Then, plots of the solutions will be displayed on a figure.
 
 # Mathematics
 
