@@ -9,11 +9,11 @@ The code is structured into 3 files, 2 of them being functions (solve.m and plot
 
 To simulate epidemic spread, we use the SIR model, which consists of the 3 following ODEs:
 
-$\frac{dS}{dt} = -\beta IS$
+$$\frac{dS}{dt} = -\beta IS$$
 
-$\frac{dI}{dt} = \beta IS - \gamma I$
+$$\frac{dI}{dt} = \beta IS - \gamma I$$
 
-$\frac{dR}{dt} = \gamma I$
+$$\frac{dR}{dt} = \gamma I$$
 
 where $S$ is the number of susceptible people, $I$  is the number of infected people, and $R$  is the number of recovered people.
 
